@@ -1,0 +1,6 @@
+res://Level1.tscn
+res://Spikes.gd
+res://Player.gd
+res://CollisionShape2D.gd
+res://Coin.gd
+res://Flag.gd
